@@ -15,13 +15,9 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 
 ## 🚀 Live Demo
 [Click here to try the calculator](https://Prteek14.github.io/CALCULATOR-JS)
-*(Replace with your GitHub Pages link)*
 
 ---
 
 ## 📷 Screenshot
 ![Calculator Screenshot](calc.png)
-*(Replace with your own screenshot image)*
-
----
 
