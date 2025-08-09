@@ -1,7 +1,7 @@
 # 🧮 Calculator – HTML, CSS, JavaScript
 
-A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**.  
-It supports basic arithmetic operations like addition, subtraction, multiplication, and division with a clean UI and smooth interactions.  
+A simple and responsive calculator built using **HTML**, **CSS**, and **JavaScript**.
+It supports basic arithmetic operations like addition, subtraction, multiplication, and division with a clean UI and smooth interactions.
 
 ---
 
@@ -14,15 +14,14 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ## 🚀 Live Demo
-[Click here to try the calculator](https://Prteek14.github.io/CALCULATOR-JS)  
+[Click here to try the calculator](https://Prteek14.github.io/CALCULATOR-JS)
 *(Replace with your GitHub Pages link)*
 
 ---
 
 ## 📷 Screenshot
-![Calculator Screenshot](screenshot.png)  
+![Calculator Screenshot](calc.png)
 *(Replace with your own screenshot image)*
 
 ---
 
-## 📂 Project Structure
