@@ -14,7 +14,7 @@ It supports basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ## 🚀 Live Demo
-[Click here to try the calculator](https://Prteek14.github.io/CALCULATOR-JS)
+[Click here to try the calculator](https://calculator-js-prteek.netlify.app/)
 
 ---
 
